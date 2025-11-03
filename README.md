@@ -26,8 +26,3 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
 
 ---
-
-### 📫 Contact Me
-
-- 📧 Email: [thanhoc890@gmail.com](mailto:thanhoc890@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/thanh-ptit](https://linkedin.com/in/shadowhira)
