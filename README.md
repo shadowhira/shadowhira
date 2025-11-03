@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nguyen Van Thanh  
+# 👋 Hi, I'm Thành  
 
 ---
 
@@ -24,13 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowhira&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowhira&layout=compact&theme=react)
 
 ---
 
