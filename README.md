@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Nguyen Van Thanh  
 
-🎓 Final-year student at **Posts and Telecommunications Institute of Technology (PTIT)**  
-💻 Passionate about building full-stack web applications and solving real-world problems.  
-
 ---
 
 ### 🧠 Tech Stack
@@ -30,16 +27,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| **ZenBuy** | Multilingual e-commerce app with buyer/seller dashboards | Next.js, Nest.js, MongoDB | [🔗 GitHub](https://github.com/...) |
-| **Telegram Airdrop Bot** | Blockchain-based bot serving 4M+ users | Loopback.js, MongoDB | [🔗 GitHub](https://github.com/...) |
-| **Portfolio Website** | Personal portfolio using React & TailwindCSS | React, Tailwind | [🌐 Live](https://shadowhira.vercel.app) |
-
----
-
 ### 📊 GitHub Stats
 
 ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowhira&show_icons=true&theme=react)
@@ -50,4 +37,4 @@
 ### 📫 Contact Me
 
 - 📧 Email: [thanhoc890@gmail.com](mailto:thanhoc890@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/thanh-ptit](https://linkedin.com/in/thanh-ptit)
+- 💼 LinkedIn: [linkedin.com/in/thanh-ptit](https://linkedin.com/in/shadowhira)
