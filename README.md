@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Thành</h1>
+<h1 align="center"><img src="assets/wave.svg" width="40" alt="👋" /> Hi, I'm Thành</h1>
 <p align="center"><b>Full-stack Developer</b> · Python · Next.js · Kubernetes</p>
 
 ---
